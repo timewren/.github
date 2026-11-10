@@ -3,9 +3,7 @@
   <img alt="timewren" src="readme-banner-light.svg" width="100%">
 </picture>
 
-**Open-source time tracking, prepaid hours and invoicing for freelancers and small agencies.**
-
-TimeWren tracks your hours, keeps count of the prepaid hour packages your clients buy, and turns tracked time into invoices in your accounting system. It is the same code that runs the Danish TimeTrack service, now open under AGPL-3.0.
+TimeWren is for freelancers and small agencies. It tracks your hours, keeps count of the prepaid hour packages your clients buy, and turns tracked time into invoices in your accounting system. It is the same code that runs the Danish TimeTrack service, now open under AGPL-3.0.
 
 Every feature is in the open repository. There is no enterprise edition and no CLA.
 
